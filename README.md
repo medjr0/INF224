@@ -1,8 +1,8 @@
-# INF224
-[Java][C++] Implementation of client server coding of a remote control app using
+# [Java][C++] Implementation of client server coding of a remote control app using
 
 
-Mohamed JARMOUNI
+### Mohamed JARMOUNI
+
 Le partie C++ a été réalisé jusqu’à l’étape 11 (client serveur) puis j’ai réalisé toute la partie
 Java Swing.
 Pour la partie C++ : le code a été écrit en respectant les principes et les standards de
